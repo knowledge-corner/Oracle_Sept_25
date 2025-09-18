@@ -1,0 +1,21 @@
+,consignment_id,origin,destination,status,created_at
+0,JAI-00001,Kolkata,Jaipur,Delivered,2025-08-11T15:18:39
+1,JAI-00002,Bangalore,Jaipur,Delivered,2025-08-11T15:18:39
+2,JAI-00003,Bangalore,Jaipur,Delivered,2025-08-11T15:18:39
+3,JAI-00004,Kolkata,Jaipur,Delivered,2025-08-11T15:18:39
+4,CHE-00005,Delhi,Chennai,Delivered,2025-08-11T15:18:39
+5,LUC-00006,Kolkata,Lucknow,Delivered,2025-08-11T15:18:39
+6,CHE-00007,Bangalore,Chennai,Delivered,2025-08-11T15:18:39
+7,PUN-00008,Bangalore,Pune,Delivered,2025-08-11T15:18:39
+8,AHM-00009,Delhi,Ahmedabad,In Transit,2025-08-11T15:18:39
+9,PUN-00010,Mumbai,Pune,In Transit,2025-08-11T15:18:39
+10,PUN-00011,Delhi,Pune,In Transit,2025-08-11T15:18:39
+11,LUC-00012,Kolkata,Lucknow,In Transit,2025-08-11T15:18:39
+12,PUN-00013,Bangalore,Pune,In Transit,2025-08-11T15:18:39
+13,CHE-00014,Delhi,Chennai,In Transit,2025-08-11T15:18:39
+14,CHE-00015,Mumbai,Chennai,In Transit,2025-08-11T15:18:39
+15,LUC-00016,Mumbai,Lucknow,Assigned,2025-08-11T15:18:39
+16,JAI-00017,Bangalore,Jaipur,Assigned,2025-08-11T15:18:39
+17,LUC-00018,Delhi,Lucknow,Assigned,2025-08-11T15:18:39
+18,LUC-00019,Hyderabad,Lucknow,Assigned,2025-08-11T15:18:39
+19,PUN-00020,Bangalore,Pune,Assigned,2025-08-11T15:18:39
